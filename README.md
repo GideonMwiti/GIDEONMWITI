@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gideonmwiti&label=Profile%20views&color=00A8CE&style=flat-square" alt="Profile Views" />
-  <a href="https://twitter.com/techbros631" target="blank"><img src="https://img.shields.io/twitter/follow/techbros631?logo=twitter&style=flat-square&color=00A8CE&labelColor=0E2033" alt="Follow on Twitter" /></a>
+  <a href="https://fb.com/techbros631" target="blank"><img src="https://img.shields.io/twitter/follow/techbros631?logo=twitter&style=flat-square&color=00A8CE&labelColor=0E2033" alt="Follow on Twitter" /></a>
 </p>
 
 ### 🚀 CEO & Founder of Sericsoft Innovations Ltd. | Project Manager & Software Developer
